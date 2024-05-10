@@ -1,4 +1,4 @@
-# Repositório de Projetos de imagens 🗺️🗽🗼🏖️🏝️🏜️🏪
+# Repositório de Projetos de imagens 🗺️🗽🗼🏖️🏝️🏜️🏪 
 
 Este repositório é dedicado ao trabalho e estudos de projetos em desenvolvimento, análises, testes e muito mais.
 
